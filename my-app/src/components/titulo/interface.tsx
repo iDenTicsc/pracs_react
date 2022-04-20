@@ -1,0 +1,1 @@
+export default interface iTitulo{nombre: string, apellido: string};
